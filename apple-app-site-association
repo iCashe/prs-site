@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "453NCPX69U.digital.purs.iospurs",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
