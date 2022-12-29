@@ -1,11 +1,14 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.purs.androidpurs",
-      "sha256_cert_fingerprints":
-        ["35:D2:FC:56:0A:99:CA:AF:EE:89:47:DF:BA:99:6B:70:AC:A7:8D:5B:46:F6:6A:DD:A2:8B:20:9B:B2:24:BF:2B"]
+      "package_name": "digital.purs.androidpurs",
+      "sha256_cert_fingerprints": [
+        "95:3E:81:4E:6E:80:E1:DB:B4:B5:BC:B6:63:A2:67:05:63:63:B5:6C:A0:98:8E:4B:D7:75:36:70:01:E4:DA:E5"
+      ]
     }
   }
 ]
