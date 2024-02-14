@@ -1,13 +1,12 @@
 {
-  "appclips": {
-      "apps": ["453NCPX69U.digital.purs.iospurs.Clip"]
-  },
   "applinks": {
     "apps": [],
     "details": [
       {
         "appID": "453NCPX69U.digital.purs.iospurs",
-        "paths": ["*"]
+        "paths": [
+          "*"
+        ]
       }
     ]
   }
